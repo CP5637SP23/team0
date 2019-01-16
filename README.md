@@ -1,4 +1,4 @@
-# [HTML5 Blank](http://html5blank.com)
+# [Theme Valancers](http://theme.valancers.com)
 
 Powerful shell for rapidly deploying your WordPress projects.
 
