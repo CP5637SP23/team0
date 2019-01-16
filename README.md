@@ -2,8 +2,7 @@
 
 Powerful shell for rapidly deploying your WordPress projects.
 
-* Website: [valancers](http://theme.valancers.com)
-* Twitter: [@html5blank](http://twitter.com/html5blank
+* Website: [Theme Valancers](http://theme.valancers.com)
 * Author : [Iftekhar Ahmed](http://valancers.com)
 * Author : [Poonam]
 * Author : [Prabhu Kiran]
